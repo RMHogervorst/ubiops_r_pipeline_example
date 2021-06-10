@@ -121,13 +121,6 @@
       "Repository": "CRAN",
       "Hash": "19e84500b64bc7e589cb1e2550e25832"
     },
-    "earth": {
-      "Package": "earth",
-      "Version": "5.3.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "65afb8404e57d5e634ff1d1c82d750c0"
-    },
     "ellipsis": {
       "Package": "ellipsis",
       "Version": "0.3.2",
